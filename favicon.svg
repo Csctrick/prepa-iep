@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Objectif IEP">
+  <rect width="64" height="64" rx="12" fill="#17344d"/>
+  <path d="M12 18h18c5 0 8 3 8 8v20c-2-3-5-4-8-4H12z" fill="#f5f0e7"/>
+  <path d="M52 18H34c-5 0-8 3-8 8v20c2-3 5-4 8-4h18z" fill="#efe6da"/>
+  <path d="M21 14l11-5 11 5-11 5z" fill="#a53244"/>
+  <path d="M27 17v5c3 2 9 2 12 0v-5" fill="none" stroke="#a53244" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="44" cy="18" r="2" fill="#a53244"/>
+</svg>
