@@ -39,7 +39,7 @@ if (contactForm) {
   });
 }
 
-const concoursDate = new Date('2027-04-24T08:00:00+02:00').getTime();
+const concoursDate = new Date('2027-04-24T09:00:00+02:00').getTime();
 const dayEl = document.querySelector('#cd-days');
 const hourEl = document.querySelector('#cd-hours');
 const minuteEl = document.querySelector('#cd-minutes');
