@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://objectif-iep.pages.dev/sitemap.xml
